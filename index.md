@@ -4,6 +4,7 @@
 
 A [Handshake](https://handshake.org/) Top Level Domain
  
-- You can [Own The Web 3/](https://official.owntheweb3.hns.to/)
 - See our [Inner I Net Company/](https://shapereality.innerinetcompany.hns.to/)
 - Explore [HNS-DOMAINS/](https://home.hns-domains.hns.to/)
+
+<iframe src="https://kiwiirc.com/client/irc.kiwiirc.com/?nick=one|?&theme=mini#1" style="border:0; width:100%; height:450px;"></iframe>
