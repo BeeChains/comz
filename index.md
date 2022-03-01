@@ -4,7 +4,7 @@
 
 A [Handshake](https://handshake.org/) Top Level Domain
  
- # Not always doin buisness, but always open!
+ # Not always doin business, but always open!
  
 - See our [Inner I Net Company/](https://shapereality.innerinetcompany.hns.to/)
 - Explore [HNS-DOMAINS/](https://home.hns-domains.hns.to/)
